@@ -1,16 +1,13 @@
-### Hi there 👋
+## Tiarnan Marsten
 
-<!--
-**tkmarsten/tkmarsten** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Socials / Contact
+[![Linkedin Badge](https://img.shields.io/badge/-Tiarnan_Marsten-%230077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tkmarsten/)](https://www.linkedin.com/in/tkmarsten/)
+**tiarnanm@uw.edu**
 
-Here are some ideas to get you started:
+### About Me
+- Washington, USA
+- Java, Python, C, Erlang, MySQL, Lua
+- HTML, CSS, Javascript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Stats
+![github stats](https://github-readme-stats.vercel.app/api?username=tkmarsten&show_icons=true)
