@@ -13,7 +13,7 @@
 ### Projects
 - [Course JavaScript Game](https://github.com/amn34/491-Bullet-Hell)
 - [Discord Bot](https://github.com/tkmarsten/kendo-bot)
-- [Messaing Application](https://github.com/mperez68/Team8TCSS450)
+- [Messaging Application](https://github.com/mperez68/Team8TCSS450)
 - [Kent Kendo Club Website](http://kentkendo.org/)
 - [Federal Way Kendo Club Website](http://federalwaykendo.org/)
 
