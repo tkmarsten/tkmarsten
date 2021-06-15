@@ -6,13 +6,14 @@
 
 ### About Me
 - Washington, USA
-- 4th Year CSS Student
+- Recent CSS @ UWT graduate
 - Java, Python, C, Erlang, MySQL, Lua, HTML, CSS, Javascript
 - Kendo, Gaming
 
 ### Projects
 - [Course JavaScript Game](https://github.com/amn34/491-Bullet-Hell)
 - [Discord Bot](https://github.com/tkmarsten/kendo-bot)
+- [Messaing Application]()
 - [Kent Kendo Club Website](http://kentkendo.org/)
 - [Federal Way Kendo Club Website](http://federalwaykendo.org/)
 
