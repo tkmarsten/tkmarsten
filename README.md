@@ -6,7 +6,7 @@
 
 ### About Me
 - Washington, USA
-- Recent CSS @ UWT graduate
+- CSS @ UWT graduate
 - Java, Python, C, Erlang, MySQL, Lua, HTML, CSS, Javascript
 - Kendo, Gaming
 
