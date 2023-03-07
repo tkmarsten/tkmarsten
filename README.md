@@ -1,8 +1,6 @@
 ## Tiarnan Marsten
 
-### Socials / Contact
-[![Linkedin Badge](https://img.shields.io/badge/-Tiarnan_Marsten-%230077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tkmarsten/)](https://www.linkedin.com/in/tkmarsten/)  
-**tiarnanm@uw.edu**
+Visit my portfolio to learn more about me [here](https://github.com/tkmarsten/tkmarsten.github.io)
 
 ### About Me
 - Washington, USA
