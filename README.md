@@ -1,27 +1,26 @@
 ## Tiarnan Marsten
 
-[Tiarnan's GitHub stats](https://github-readme-stats.vercel.app/api?username=tkmarsten)
+[![Tiarnan's GitHub stats](https://github-readme-stats.vercel.app/api?username=tkmarsten&hide=issues&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-
-Visit my portfolio to learn more about me [here](https://github.com/tkmarsten/tkmarsten.github.io)
 
 ### About Me
-- Washington, USA
-- CSS @ UWT graduate
-- Java, Python, C, Erlang, MySQL, Lua, HTML, CSS, Javascript
-- Kendo, Gaming
+- BS, Computer Science and Systems, UW Tacoma 2021
+- Kendo 4th degree black belt
+- Avid gamer
 
-### Projects
-- [Course JavaScript Game](https://github.com/amn34/491-Bullet-Hell)
-- [Discord Bot](https://github.com/tkmarsten/kendo-bot)
-- [Messaging Application](https://github.com/mperez68/Team8TCSS450)
-- [Kent Kendo Club Website](http://kentkendo.org/)
-- [Federal Way Kendo Club Website](http://federalwaykendo.org/)
+
+### Featured Projects
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tkmarsten&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tkmarsten&repo=kentkendo-website)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tkmarsten&repo=fwkendo-website)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ### Hackathons
 - [NASA Hackathon 2019](https://github.com/tkmarsten/nasa-hackathon)
 - [NASA Hackathon 2020](https://github.com/amn34/HUSCII-CO2)
 - [AuburnHacks 2021](https://github.com/amn34/Auburn-Client)
 
-### Stats
-![github stats](https://github-readme-stats.vercel.app/api?username=tkmarsten&show_icons=true)
+
+
+Visit my portfolio to learn more about me [here](https://github.com/tkmarsten/tkmarsten.github.io)
