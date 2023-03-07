@@ -1,5 +1,8 @@
 ## Tiarnan Marsten
 
+[Tiarnan's GitHub stats](https://github-readme-stats.vercel.app/api?username=tkmarsten)
+
+
 Visit my portfolio to learn more about me [here](https://github.com/tkmarsten/tkmarsten.github.io)
 
 ### About Me
