@@ -12,8 +12,8 @@
 ### Featured Projects
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tkmarsten&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tkmarsten&repo=kentkendo-website)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tkmarsten&repo=fwkendo-website)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tkmarsten&repo=kentkendo-website)](https://github.com/tkmarsten/kentkendo-website)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tkmarsten&repo=fwkendo-website)](https://github.com/tkmarsten/fwkendo-website)
 
 
 ### Hackathons
