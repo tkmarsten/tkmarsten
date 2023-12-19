@@ -1,6 +1,5 @@
 # [Tiarnan Marsten](https://tkmarsten.github.io/)
 
-[![ProfileViews](https://komarev.com/ghpvc/?username=tkmarsten&color=blueviolet&style=flat)](https://komarev.com/ghpvc/?username=tkmarsten) <br/>
 [![Tiarnan's GitHub stats](https://github-readme-stats.vercel.app/api?username=tkmarsten&hide=issues&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tkmarsten&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ---
