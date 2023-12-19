@@ -1,4 +1,4 @@
-## Tiarnan Marsten
+# [Tiarnan Marsten](https://tkmarsten.github.io/)
 
 [![Tiarnan's GitHub stats](https://github-readme-stats.vercel.app/api?username=tkmarsten&hide=issues&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -20,7 +20,3 @@
 - [NASA Hackathon 2019](https://github.com/tkmarsten/nasa-hackathon)
 - [NASA Hackathon 2020](https://github.com/amn34/HUSCII-CO2)
 - [AuburnHacks 2021](https://github.com/amn34/Auburn-Client)
-
-
-
-Visit my portfolio to learn more about me [here](https://github.com/tkmarsten/tkmarsten.github.io)
