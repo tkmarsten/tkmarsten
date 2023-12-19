@@ -10,13 +10,9 @@ I am currently learning:
 - [![Next.js](https://img.shields.io/static/v1?label=&message=Next.js&color=000000&logo=Next.js&logoColor=FFFFFF)](https://nextjs.org/)
 - [![Tailwind CSS](https://img.shields.io/static/v1?label=&message=Tailwind%20CSS&color=06B6D4&logo=tailwindcss&logoColor=FFFFFF)](https://nextjs.org/)
 
+### Skills
+
 
 ### Featured Projects
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tkmarsten&repo=kentkendo)](https://github.com/tkmarsten/kentkendo)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tkmarsten&repo=federalwaykendo)](https://github.com/tkmarsten/federalwaykendo)
-
-
-### Hackathons
-- [NASA Hackathon 2019](https://github.com/tkmarsten/nasa-hackathon)
-- [NASA Hackathon 2020](https://github.com/amn34/HUSCII-CO2)
-- [AuburnHacks 2021](https://github.com/amn34/Auburn-Client)
