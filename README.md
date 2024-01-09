@@ -13,5 +13,5 @@ I am currently learning:
 
 
 ### Featured Projects
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tkmarsten&repo=kentkendo)](https://github.com/tkmarsten/kentkendo)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tkmarsten&repo=federalwaykendo)](https://github.com/tkmarsten/federalwaykendo)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tkmarsten&repo=kentkendo&theme=dracula&border_color=00000000)](https://github.com/tkmarsten/kentkendo)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tkmarsten&repo=federalwaykendo&theme=dracula&border_color=00000000)](https://github.com/tkmarsten/federalwaykendo)
