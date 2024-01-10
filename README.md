@@ -1,17 +1,12 @@
 # [Tiarnan Marsten](https://tkmarsten.github.io/)
 
 <p align="center">
-<picture>
   <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=150 src="https://github-readme-stats.vercel.app/api?username=tkmarsten&show_icons=true&rank_icon=github&hide_title=true&hide=issues&theme=jolly&ring_color=3772ff&border_color=00000000" />
   </a>
-</picture>
-&nbsp;
-<picture>
   <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=tkmarsten&layout=compact&langs_count=8"/>
   </a>
-</picture>
 </p>
 
 <p>
