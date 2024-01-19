@@ -9,24 +9,13 @@
   </a>
 </p>
 
-<p>
-  I am a fullstack web developer that enjoys building and designing small scale applications and basic webpages! I like to focus on minimal design by providing simple user interaction and experiences. I primarily develop using MERN, and especially enjoy developing with databases and APIs.
-  I am currently learning:
-  <ul>
-    <li>
-      <a href="https://nextjs.org/">
-        <img src="https://img.shields.io/static/v1?label=&message=Next.js&color=000000&logo=Next.js&logoColor=FFFFFF"/>
-      </a>
-    </li>
-        <li>
-      <a href="https://tailwindcss.com/">
-        <img src="https://img.shields.io/static/v1?label=&message=Tailwind%20CSS&color=06B6D4&logo=tailwindcss&logoColor=FFFFFF"/>
-      </a>
-    </li>
-  </ul>
-</p>
+I am a fullstack web developer that enjoys building and designing small scale applications and basic webpages! I like to focus on minimal design by providing simple user interaction and experiences. I primarily develop using MERN, and especially enjoy developing with databases and APIs. 
+
+### Currently Learning
+[![Learning](https://skillicons.dev/icons?i=nextjs,tailwind)](https://skillicons.dev)
 
 ### Skills
+[![Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,express,nodejs,mongo,java,py,mysql)](https://skillicons.dev)
 
 ### Featured Projects
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tkmarsten&repo=kentkendo&theme=dracula&border_color=00000000)](https://github.com/tkmarsten/kentkendo)
