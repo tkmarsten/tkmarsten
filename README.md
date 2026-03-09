@@ -1,7 +1,7 @@
 # [Tiarnan Marsten](https://tkmarsten.github.io/)
 
 ### Currently Learning
-[![Learning](https://skillicons.dev/icons?i=nextjs,tailwind)](https://skillicons.dev)
+[![Learning](https://skillicons.dev/icons?i=)](https://skillicons.dev)
 
 ### Skills
-[![Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,express,nodejs,mongo,java,py,mysql)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,express,nodejs,mongo,java,py,mysql,nextjs,tailwind)](https://skillicons.dev)
